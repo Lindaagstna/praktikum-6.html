@@ -1,0 +1,63 @@
+.cont {
+    display: flex;
+}
+
+.box-1{
+    height: 75px;
+    width: 150px;
+    background-color: lightpink;
+    border: solid;
+    margin-top: 20px;
+}
+
+.box-2 {
+    height: 75px;
+    width: 1060px;
+    background-color: lightblue;
+    border: solid;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.container {
+    display: flex;
+    border-color: black blue green;
+    float: left;
+}
+
+.item-3 {
+    height: 400px;
+    width: 150px;
+    background-color: aliceblue;
+    border: solid;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.item-4 {
+    height: 400px;
+    width: 885px;
+    background-color: azure;
+    border: solid;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.item-5 {
+    height: 400px;
+    width: 160px;
+    background-color: lightcoral;
+    border: solid;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.box-6 {
+    height: 100px;
+    width: 1225px;
+    background-color: pink;
+    border: solid;
+    margin-top: 420px;
+    margin-right: auto ;
+}
